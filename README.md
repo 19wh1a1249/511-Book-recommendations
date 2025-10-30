@@ -1,1 +1,1 @@
-# 511-Book-recommendations
+The Book Recommendation System is a Python-based project developed to explore how data analytics and artificial intelligence can personalize user experiences. It uses collaborative filtering and cosine similarity to analyze user-book rating patterns and generate intelligent, user-specific recommendations.
